@@ -1,5 +1,5 @@
 # Image-Dataset-for-Predicting-Early-Dropouts-in-Digital-Learning-Platforms
-##Abstract
+#Abstract
 This article presents a student click-stream database comprising of 120542
 train images and 80362 test images where each directory contains two sub
 directories i.e. ”Dropouts” and ”NonDropouts” as two different classes.The
